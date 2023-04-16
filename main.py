@@ -6,6 +6,8 @@ from PyQt5.QtWidgets import (
     QPushButton, QLabel)
 from random import randint, shuffle
 
+#Привет, чтоюы посмотреть обзор на файл скопируй ссылку https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
 
 class Question():
     ''' содержит вопрос, правильный ответ и три неправильных'''
